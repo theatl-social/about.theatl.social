@@ -1,4 +1,4 @@
-baseURL: "https://about.theatl.social/index.html"
+baseURL: "https://about.theatl.social"
 title: theATL.social
 paginate: 5
 theme: PaperMod
