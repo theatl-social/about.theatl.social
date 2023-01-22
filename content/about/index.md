@@ -32,6 +32,11 @@ There was not yet an Atlanta, Georgia-focused Mastodon server, so I decided to c
 - [Funding](/funding/)
 - [Frequently Asked Questions](/faqs/)
 - [Active Bots](/bots/)
+- [Privacy Policy](/privacy/)
+
+## Status Page
+
+The status of the service may be monitored at [status.theatl.social](https://status.theatl.social)
 
 ## Principles and Rules
 
