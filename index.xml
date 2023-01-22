@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>theATL.social</title>
-    <link>https://about.theatl.social/index.html/</link>
+    <link>https://about.theatl.social/</link>
     <description>Recent content on theATL.social</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://about.theatl.social/index.html/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://about.theatl.social/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://about.theatl.social/index.html/about/</link>
+      <link>https://about.theatl.social/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://about.theatl.social/index.html/about/</guid>
+      <guid>https://about.theatl.social/about/</guid>
       <description>Welcome to theATL.social Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
 About theATL.social is a growing Mastodon server focused on the Atlanta, GA region.
 Questions about Mastodon, the Fediverse, ActivityPub, and all the other tech word things? Check out fedi.tips.
@@ -19,10 +19,10 @@ Primary Admin Contact Email: michael@theatl.social Mastodon Username: @michael@t
     
     <item>
       <title></title>
-      <link>https://about.theatl.social/index.html/bots/</link>
+      <link>https://about.theatl.social/bots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://about.theatl.social/index.html/bots/</guid>
+      <guid>https://about.theatl.social/bots/</guid>
       <description>News and RSS Bots Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
 About test123
 &amp;ldquo;Bots&amp;rdquo; are accounts on theATL.social that automatically post news stories or timely information, based on updates to web pages or RSS feeds.
@@ -33,10 +33,10 @@ How to Follow a Bot Account Search for the account on theATL.social and follow t
     
     <item>
       <title></title>
-      <link>https://about.theatl.social/index.html/faqs/</link>
+      <link>https://about.theatl.social/faqs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://about.theatl.social/index.html/faqs/</guid>
+      <guid>https://about.theatl.social/faqs/</guid>
       <description>FAQ: Frequently Asked Questions Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
 Where are your servers located? Are they in Atlanta?
 theATL.social operates on the DigitalOcean &amp;ldquo;cloud&amp;rdquo; computing provider, running in a data center in New York City (technically New Jersey).
@@ -45,10 +45,10 @@ The choice of provider and data center is due to cost and availability of servic
     
     <item>
       <title></title>
-      <link>https://about.theatl.social/index.html/funding/</link>
+      <link>https://about.theatl.social/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://about.theatl.social/index.html/funding/</guid>
+      <guid>https://about.theatl.social/funding/</guid>
       <description>Funding Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
 Background Mastodon server costs comprise payment for cloud-based servers, object storage, bandwidth, logging/monitoring, and other auxillary costs. As the number of users on a server increase, the cost per user decreases - an economy of scale.
 Current Costs Cost and revenue transparency is provided via a frequently updated Google Sheet.

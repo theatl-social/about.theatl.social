@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://about.theatl.social/index.html/about/</loc>
+    <loc>https://about.theatl.social/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://about.theatl.social/index.html/bots/</loc>
+    <loc>https://about.theatl.social/bots/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://about.theatl.social/index.html/faqs/</loc>
+    <loc>https://about.theatl.social/faqs/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://about.theatl.social/index.html/funding/</loc>
+    <loc>https://about.theatl.social/funding/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://about.theatl.social/index.html/categories/</loc>
+    <loc>https://about.theatl.social/categories/</loc>
   </url><url>
-    <loc>https://about.theatl.social/index.html/tags/</loc>
+    <loc>https://about.theatl.social/tags/</loc>
   </url><url>
-    <loc>https://about.theatl.social/index.html/</loc>
+    <loc>https://about.theatl.social/</loc>
   </url>
 </urlset>
