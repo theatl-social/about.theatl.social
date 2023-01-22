@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://about.theatl.social/sitemap.xml
+Sitemap: https://about.theatl.social/index.html/sitemap.xml
