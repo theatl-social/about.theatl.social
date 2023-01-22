@@ -1,10 +1,12 @@
+---
+title: Bots
+---
+
 # News and RSS Bots
 
- __[Contribute to theATL.social's operations via Patreon](https://patreon.com/user?u=83429267&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link) ❤️__
+__[Contribute to theATL.social's operations via Patreon](https://patreon.com/theatlsocial) ❤️__
 
 ## About
-
-test123
 
 "Bots" are accounts on theATL.social that automatically post news stories or timely information, based on updates to web pages or [RSS](https://www.wikipedia.com/wiki/RSS) feeds.
 

@@ -1,0 +1,5 @@
+{{ range .Pages }}
+{{if eq .Title "About" }}
+{{ .Render "main"}}
+{{end}}
+{{ end }}

@@ -75,10 +75,10 @@ params:
   homeInfoParams:
     Title: "Welcome to about.theATL.social! \U0001F44B"
     Content: >
-      This site contains updates and helpful information about the Mastodon Site theATL.social
-
-      [About](https://about.theatl.social/about/)
-      [FAQs](https://about.theatl.social/faqs/)
+      This site contains updates and helpful information about the Mastodon Instance theATL.social
+      
+      # [About](https://about.theatl.social/about/)
+      # [FAQs](https://about.theatl.social/faqs/)
 
     
   socialIcons:
@@ -135,6 +135,11 @@ menu:
       name: funding
       url: /funding/
       weight: 20
+    - identifier: privacy
+      name: privacy policy
+      url: /privacy/
+      weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

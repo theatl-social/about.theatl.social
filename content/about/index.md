@@ -1,6 +1,10 @@
+---
+title: About
+---
+
 # Welcome to [theATL.social](https://theatl.social)
 
- __[Contribute to theATL.social's operations via Patreon](https://patreon.com/user?u=83429267&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link) ❤️__
+__[Contribute to theATL.social's operations via Patreon](https://patreon.com/theatlsocial) ❤️__
 
 ## About
 
@@ -43,6 +47,10 @@ Every Mastodon server chooses a set of principles, rules, and operating values. 
 
 Above and beyond these principals, server administrators may establish the ground rules that the server users must abide.
 
+### Privacy
+
+
+
 ### Operating Philosophy
 
 The operating philosophy of theATL.social is to provide an open forum where content may be posted free from censorship and/or interference from admins.
@@ -57,17 +65,18 @@ __This server abides by the [Mastodon Server Covenant](https://joinmastodon.org/
 
 1. __No Violence__
    - Users may not advocate or promote violence against an individual, groups, (profit or non-profit) organizations, governments, elected officials, or government officials/employees.
-2. __No Pornography or graphic sexual images__
+2. __No Pornography or Graphic Sexual Images__
     - Users may not post pornography, including graphic sexual media or text.
+    - Users may not solicit or offer sexual services in their posts or statuses.
     - Users should label posts with a _content warning_ if the post does not include graphic sexual images, but would be considered "not safe for work."
 3. __No Copyrighted Material__
     - Users may only post content for which they have a legal right to post.
 4. __No Illegal Content__
     - Users may not post content that is illegal in the United States or the State of Georgia.
-5. __No Doxing, Toxic Behavior, or Hate Speech__
+5. __No Doxing, Trolling, Toxic Behavior, or Hate Speech__
     - No [trolling](https://en.wikipedia.org/wiki/Troll_(slang)), [doxing](https://en.wikipedia.org/wiki/Doxing), [dogpilling](https://en.wikipedia.org/wiki/Dogpiling_(Internet)) or [related behavior](https://en.wikipedia.org/wiki/Online_disinhibition_effect), please.
     - Users may not post content that advocates or espouses discrimination, bigotry, or hate against individuals (or groups of individuals) based on personal characteristics or attributes.
-6. 
+6. __No Inauthentic Accounts or Behavior__ including misleading identity, purpose, or origin of the entity that they represent, AI-generated faces misrepresenting the account, or accounts created with the intent to engage in abusive or spam-like behavior.
 
 #### Spam Account Policy
 
