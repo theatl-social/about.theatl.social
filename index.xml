@@ -6,7 +6,7 @@
     <description>Recent content on theATL.social</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://about.theatl.social/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About</title>
       <link>https://about.theatl.social/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -18,41 +18,51 @@ Primary Admin Contact Email: michael@theatl.social Mastodon Username: @michael@t
     </item>
     
     <item>
-      <title></title>
+      <title>Bots</title>
       <link>https://about.theatl.social/bots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://about.theatl.social/bots/</guid>
       <description>News and RSS Bots Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
-About test123
-&amp;ldquo;Bots&amp;rdquo; are accounts on theATL.social that automatically post news stories or timely information, based on updates to web pages or RSS feeds.
+About &amp;ldquo;Bots&amp;rdquo; are accounts on theATL.social that automatically post news stories or timely information, based on updates to web pages or RSS feeds.
 Suggestions and feedback? Send a DM or mention @michael@theatl.social
 Update Frequency Bots are typically update every 30 minutes to 1 hour, daily.
 How to Follow a Bot Account Search for the account on theATL.social and follow the account.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>FAQs</title>
       <link>https://about.theatl.social/faqs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://about.theatl.social/faqs/</guid>
-      <description>FAQ: Frequently Asked Questions Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
+      <description>Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
 Where are your servers located? Are they in Atlanta?
 theATL.social operates on the DigitalOcean &amp;ldquo;cloud&amp;rdquo; computing provider, running in a data center in New York City (technically New Jersey).
-The choice of provider and data center is due to cost and availability of services. With additional funding, closer data centers to Atlanta may be utilized (for example, the AWS Atlanta local zone).</description>
+The choice of provider and data center is due to cost and availability of services. With additional funding, closer data centers to Atlanta may be utilized (for example, the AWS Atlanta local zone).
+Can I create an account on behalf of my business, non-profit organization, or representing any other group?</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Funding</title>
       <link>https://about.theatl.social/funding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://about.theatl.social/funding/</guid>
-      <description>Funding Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
+      <description>Contribute to theATL.social&amp;rsquo;s operations via Patreon ❤️
 Background Mastodon server costs comprise payment for cloud-based servers, object storage, bandwidth, logging/monitoring, and other auxillary costs. As the number of users on a server increase, the cost per user decreases - an economy of scale.
-Current Costs Cost and revenue transparency is provided via a frequently updated Google Sheet.
-For information security purposes, some details in the cost spreadsheet are redacted. Full-Text Search (Elastic Search) The server does not currently implement full-text search of posts, due to cost.</description>
+Current Costs Monthly instance costs comprise:
+Description Vendor Monthly Cost Security, Object Storage, DDOS Protection CloudFlare $25 Email Providers SendGrid $20 Cloud-based Servers, Block Storage DigitalOcean $90 Container Repository + Docker Repo License Docker Hub $7 Why is this more expensive than a hosted service from masto.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://about.theatl.social/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://about.theatl.social/privacy/</guid>
+      <description>Last updated Jan 22, 2023
+This privacy policy describes how theATL.social (&amp;ldquo;theATL.social&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;) collects, protects and uses the personally identifiable information you may provide through the theATL.social website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that theATL.social does not own or control, or to individuals that theATL.</description>
     </item>
     
   </channel>

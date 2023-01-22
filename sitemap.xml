@@ -3,18 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://about.theatl.social/about/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://about.theatl.social/bots/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://about.theatl.social/faqs/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://about.theatl.social/funding/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>https://about.theatl.social/categories/</loc>
+  </url><url>
+    <loc>https://about.theatl.social/faqs/</loc>
+  </url><url>
+    <loc>https://about.theatl.social/funding/</loc>
+  </url><url>
+    <loc>https://about.theatl.social/privacy/</loc>
   </url><url>
     <loc>https://about.theatl.social/tags/</loc>
   </url><url>
