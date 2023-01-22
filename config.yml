@@ -77,7 +77,9 @@ params:
     Content: >
       This site contains updates and helpful information about the Mastodon Site theATL.social
 
-      - [FAQs](https://about.theatl.social/faqs/)
+      [About](https://about.theatl.social/about/)
+      [FAQs](https://about.theatl.social/faqs/)
+
     
   socialIcons:
     # - name: twitter
