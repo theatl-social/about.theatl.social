@@ -36,7 +36,22 @@ If in doubt, or if you have any questions, please reach out to [@michael@theATL.
 
 ## Accounts
 
-### News
+### Atlanta Journal-Constitution (AJC) RSS Feeds
+
+#### AJC News Headlines Bot: [@AJC_Sports_Bot](https://theatl.social/@AJC_Sports_Bot)
+
+#### AJC Crime News Bot: [@AJC_Crime_Bot](https://theatl.social/@AJC_Crime_Bot)
+
+#### AJC Political News Bot: [@AJC_Politics_Bot](https://theatl.social/@AJC_Politics_Bot)
+
+#### AJC Education News Bot: [@AJC_Education_Bot](https://theatl.social/@AJC_Education_Bot)
+
+#### AJC Inspire Atlanta: [@AJC_Inspire_Atlanta_Bot](https://theatl.social/@AJC_Inspire_Atlanta_Bot)
+
+#### AJC Access Atlanta: [@AJC_Inspire_Atlanta_Bot](https://theatl.social/@AJC_Access_Atlanta_Bot)
+
+
+### Other News
 
 #### Atlanta Daily World: [@AtlantaDailyWorld@theATL.social](https://theatl.social/@AtlantaDailyWorld)
 - Posts news articles from the [The Atlanta Daily World](https://atlantadailyworld.com)
