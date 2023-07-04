@@ -8,7 +8,7 @@ title: About
 
 **theATL.social provides ad-free user-supported social media services for the Metro Atlanta region.** 
 
-Support the operation of the server (and view monthly expenses) via our OpenCollective portal at [theatlsocial.opencollective.com](https://theatlsocial.opencollective.com) ❤️
+Support the operation of the server (and view monthly expenses) via our OpenCollective portal at [opencollective.com/theatlsocial](https://opencollective.com/theatlsocial) ❤️
 
 
 ### Services Provided
