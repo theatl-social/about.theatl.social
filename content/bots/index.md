@@ -4,7 +4,7 @@ title: Bots
 
 # News and RSS Bots
 
-__[Contribute to theATL.social's operations via Patreon](https://patreon.com/theatlsocial) ❤️__
+Support the operation of the server (and view monthly expenses) via our OpenCollective portal at [theatlsocial.opencollective.com](https://theatlsocial.opencollective.com) ❤️
 
 ## About
 

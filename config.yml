@@ -123,21 +123,9 @@ menu:
       name: about
       url: /about/
       weight: 10
-    - identifier: faqs
-      name: faqs
-      url: /faqs/
-      weight: 10
     - identifier: bots
       name: bots
       url: /bots/
-      weight: 20
-    - identifier: funding
-      name: funding
-      url: /funding/
-      weight: 20
-    - identifier: privacy
-      name: privacy policy
-      url: /privacy/
       weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
