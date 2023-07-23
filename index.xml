@@ -25,9 +25,8 @@ Services Provided A Mastodon instance at theATL.social (Mastodon is a twitter-li
       <guid>https://about.theatl.social/bots/</guid>
       <description>News and RSS Bots Support the operation of the server (and view monthly expenses) via our OpenCollective portal at opencollective.com/theatlsocial ❤️
 About &amp;ldquo;Bots&amp;rdquo; are accounts on theATL.social that automatically post news stories or timely information, based on updates to web pages or RSS feeds.
-Suggestions and feedback? Send a DM or mention @michael@theatl.social
-Update Frequency Bots are typically update every 30 minutes to 1 hour, daily.
-How to Follow a Bot Account Search for the account on theATL.</description>
+Bots auto-post new articles to the /c/AtlantaNews Lemmy community on yall.theatl.social
+Note: Bots that previously posted to the Mastodon instance at theATL.social hae been moved to the Lemmy community</description>
     </item>
     
   </channel>
