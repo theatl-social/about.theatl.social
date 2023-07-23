@@ -30,7 +30,7 @@ Questions about Mastodon, the Fediverse, ActivityPub, and all the other tech wor
 
 ## Additional Information
 
-- [Active Mastodon Bots](/bots/)
+- [Admin-Operated Bots](/bots/): Auto-posting accounts
 
 ## theATL.social News and Announcements
 
