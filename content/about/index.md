@@ -30,7 +30,7 @@ Questions about Mastodon, the Fediverse, ActivityPub, and all the other tech wor
 
 ## Additional Information
 
-- [Admin-Operated Bots](/bots/): Auto-posting accounts
+- [Admin-Operated News "Bots"](/bots/): Accounts on theATL.social that relay news from public news feeds, such as RSS, and other sources.
 
 ## theATL.social News and Announcements
 
