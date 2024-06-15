@@ -56,8 +56,8 @@ Provide a reliable, accessible, and prudently moderated online space for those l
 - Due to the federated nature of Fediverse services, content is duplicated across multiple servers on an automatic basis. Even if a post is "deleted", it is almost certain that a copy of a post has been retained as a backup on a server.
 - All reasonable efforts to protect personal data, including but not limited to email addresses, passwords, and client logs of IP addresses are taken. These efforts include encryption of data at rest and in transit.
   - Security vulnerabilities in the Mastodon or Lemmy software, virtual server providers, and/or other third-party providers may pose a risk of data exfiltration despite the reasonable efforts noted above.
-- theATL.social services operate in the State of Georgia in the United States and are subject to Federal and State law. As such, in the event of lawful requests from authorities, theATL.social is required to provide requested any information.
-- Users are permitted to utilize anonymous accounts and access via VPNs if they wish to hide their IP address or any other personal identification. However, theATL.social cannot provide any guarantees or of anonymity to users.
+- theATL.social services operate in the State of Georgia in the United States and are subject to Federal and State law. As such, in the event of lawful requests from authorities, theATL.social is required to provide any requested information.
+- Users are permitted to utilize anonymous accounts and access via VPNs if they wish to hide their IP address or any other personal identification. However, theATL.social cannot provide any guarantees of anonymity to users.
 
 
 ### Moderation and Operating Philosophy
@@ -75,7 +75,7 @@ The following server rules apply to any services provided via:
 1. __No Violence__
    - Users may not advocate or promote violence against an individual, groups of individuals, (profit or non-profit) organizations, governments, elected officials, or government officials/employees.
 2. __No Doxing, Trolling, Toxic Behavior, or Hate Speech__
-    - No [trolling](https://en.wikipedia.org/wiki/Troll_(slang)), [doxing](https://en.wikipedia.org/wiki/Doxing), [dogpilling](https://en.wikipedia.org/wiki/Dogpiling_(Internet)) or [related behavior](https://en.wikipedia.org/wiki/Online_disinhibition_effect), please.
+    - No [trolling](https://en.wikipedia.org/wiki/Troll_(slang)), [doxing](https://en.wikipedia.org/wiki/Doxing), [dogpiling](https://en.wikipedia.org/wiki/Dogpiling_(Internet)) or [related behavior](https://en.wikipedia.org/wiki/Online_disinhibition_effect), please.
     - Users may not post content that advocates or espouses discrimination, bigotry, or hate against individuals (or groups of individuals) based on their personal characteristics.
 3. __No Illegal Content__
     - Users may not post content that is illegal in the United States or the State of Georgia.
@@ -107,7 +107,7 @@ In addition to the guidance located in the Covenant, the following additional ru
 ### Moderation Actions
 
 1. __Rule violations on any theATL.social services__
-   - If theATL.social server admins observe content in violation of the rules, or of admins receive a moderation complaint, the offending post will be hidden, and the user contacted for follow-up. Users will be provided the opportunity to appeal post removal, however, the admins reserve the right for final adjudication of the matter.
+   - If theATL.social server admins observe content in violation of the rules, or if admins receive a moderation complaint, the offending post will be hidden, and the user contacted for follow-up. Users will be provided the opportunity to appeal post removal, however, the admins reserve the right for final adjudication of the matter.
    - In extreme situations, admins reserve the right to take immediate action, should the safety of persons, the integrity of computing resources, or other critical assets are threatened by user activity.
 2. __Rule violation reports from other Mastodon/Fediverse servers.__
     - theATL.social seeks to be a good citizen on the Fediverse. theATL.social users are kindly requested to review server rules on other servers with which they interact. Some server rules may be more strict or otherwise different from rules on theATL.social.
